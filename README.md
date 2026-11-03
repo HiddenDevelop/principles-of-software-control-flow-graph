@@ -1,3 +1,6 @@
+## Flowline
+A flowchart editor that runs in the browser, built on JointJS. Draw control-flow diagrams with the standard flowchart shapes, connect them with flow lines that snap into place, check the flow for mistakes, and export the result as a PNG.
+
 ## Shapes
 
 | Shape | Name | Use it for |
